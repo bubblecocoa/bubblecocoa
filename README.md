@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **bubblecocoa/bubblecocoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🏢 Career
+- 2020.03.02 ~ 재직 중 와이즈셀렉션 [건강비밀](https://www.vimeal.co.kr) 풀스택 개발자
