@@ -28,5 +28,3 @@ Here are some ideas to get you started:
 
 ### 🏢 Career
 - 2020.03.02 ~ 2022.12.31 와이즈셀렉션 [건강비밀](https://www.vimeal.co.kr) 풀스택 개발자
-
-![bubblecocoa's Github Status](https://github-readme-stats.vercel.app/api?username=bubblecocoa&show_icons=true&count_private=true&theme=dark)
